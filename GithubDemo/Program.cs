@@ -7,6 +7,7 @@ namespace GithubDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Test adding exist solution to github.");
+            Console.WriteLine("Add an exist solution!");
         }
     }
 }
